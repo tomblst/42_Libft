@@ -77,7 +77,7 @@ Functions from <string.h>
 
 Functions from <stdlib.h>
 
-    ft_atoi	- convert a string to an integer
+    ft_atoi	    - convert a string to an integer
     ft_calloc	- allocates memory and sets its bytes' values to 0
 
 Non-standard functions
@@ -86,7 +86,7 @@ Non-standard functions
     ft_strjoin	- concatenates two strings
     ft_strtrim	- trims the beginning and end of string with specific set of chars
     ft_split	- splits a string using a char as parameter
-    ft_itoa	- converts a number into a string
+    ft_itoa	    - converts a number into a string
     ft_strmapi	- applies a function to each character of a string
     ft_striteri	- applies a function to each character of a string
     ft_putchar_fd	- output a char to a file descriptor
